@@ -1,0 +1,5 @@
+﻿  Sum2ArrayParallel.cpp
+C:\Users\marcos.chavez\source\repos\Sum2ArrayParallel\Sum2ArrayParallel\Sum2ArrayParallel.cpp(22,18): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\marcos.chavez\source\repos\Sum2ArrayParallel\Sum2ArrayParallel\Sum2ArrayParallel.cpp(23,24): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\marcos.chavez\source\repos\Sum2ArrayParallel\Sum2ArrayParallel\Sum2ArrayParallel.cpp(14,5): warning C4101: 'i': variable local sin referencia
+  Sum2ArrayParallel.vcxproj -> C:\Users\marcos.chavez\source\repos\Sum2ArrayParallel\x64\Debug\Sum2ArrayParallel.exe
